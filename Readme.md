@@ -5,6 +5,8 @@ The Collaborative Storytelling platform allows participants to co-create a share
 
 ## Contract Address
 0xF620FeB85a180fa16A25Cd464d177e274c44c548
+![image](https://github.com/user-attachments/assets/ee0bb2a6-7aae-4c38-ab9a-f7e04f5d9049)
+
 
 ## Key Features
 - **Player-Driven Contributions**: Players can contribute to the story by adding their own segments.
